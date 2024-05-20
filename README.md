@@ -3,7 +3,7 @@
 <img align="center" src="https://avatars.githubusercontent.com/u/87313996?v=4?size=4096">
 - 🔭 I’m currently working as freelance SA-MP developer and web developer
 
-- 🌱 I’m currently learning **Python, Pawn, Nodejs, php and C++**
+- 🌱 I’m currently learning **Python, Pawn, Nodejs, php, C# and C++**
 
 - 📫 How to reach me **muhraihannurtaufiq@gmail.com**
 
