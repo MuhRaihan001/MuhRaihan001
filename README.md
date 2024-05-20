@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RyuX</h1>
 <h3 align="center">Novice backend developer. Still learning</h3>
-<img align="center" src="https://cdn.discordapp.com/avatars/932538280937922591/fa459aa29f2730c12977db40017afc8e.png?size=4096">
+<img align="center" src="https://avatars.githubusercontent.com/u/87313996?v=4?size=4096">
 - 🔭 I’m currently working on Reverie Unity (SA-MP) as web developer [Reverie Unity Roleplay](Not Release Yet)
 
 - 🌱 I’m currently learning **React.js, Express.js**
