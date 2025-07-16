@@ -7,8 +7,7 @@
 
 - 🔭 I’m currently working as a freelance SA-MP developer and web developer.
 - 🌱 I’m currently learning **Python, Pawn, Node.js, PHP, C#, and C++**.
-- 📫 How to reach me: **muhraihannurtaufiq@gmail.com**
-- ⚡ Fun fact: **I'm still 17 :v**
+- 📫 How to reach me: **muhraihannurtaufiq@gmail.com*
 
 ---
 
