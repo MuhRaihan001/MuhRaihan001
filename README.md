@@ -39,6 +39,16 @@ Full Stack Developer passionate about creating efficient and scalable web applic
 
 ---
 
+### 💬 Discord
+
+<div align="center">
+  <a href="https://discord.c99.nl/widget/theme-1/932538280937922591.png">
+    <img src="https://discord.c99.nl/widget/theme-1/932538280937922591.png" alt="Discord Profile"/>
+  </a>
+</div>
+
+---
+
 ### 🌐 Connect with Me
 
 <div align="center">
@@ -50,16 +60,6 @@ Full Stack Developer passionate about creating efficient and scalable web applic
   </a>
   <a href="https://tsumux.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</div>
-
----
-
-### 💬 Discord
-
-<div align="center">
-  <a href="https://discord.c99.nl/widget/theme-1/932538280937922591.png">
-    <img src="https://discord.c99.nl/widget/theme-1/932538280937922591.png" alt="Discord Profile"/>
   </a>
 </div>
 
