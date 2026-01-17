@@ -1,59 +1,72 @@
-<h1 align="center">Hi 👋, I'm TsumuX</h1>
-<h3 align="center">Novice backend developer. Still learning</h3>
+<div align="center">
 
-<img align="center" src="https://avatars.githubusercontent.com/u/87313996?v=4?s=4096" alt="TsumuX's Avatar" width="150" />
+![Profile Header](https://cardivo.vercel.app/api?name=Muh%20Raihan%20Nur%20Taufiq&description=19%20y.o%20Full%20Stack%20Developer%20%7C%20Universitas%20Negeri%20Makassar%20%7C%20Building%20scalable%20applications&image=https://avatars.githubusercontent.com/u/87313996?v=4&backgroundColor=%23ffffff&fontColor=%23111827&iconColor=%233b82f6&pattern=topography&colorPattern=%23e5e7eb&opacity=0.4&github=MuhRaihan001&instagram=raihnx_&site=https://tsumux.vercel.app)
 
----
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working as a freelance SA-MP developer and web developer.
-- 🌱 I’m currently learning **Python, Pawn, Node.js, PHP, C#, and C++**.
-- 📫 How to reach me: **muhraihannurtaufiq@gmail.com*
+Full Stack Developer passionate about creating efficient and scalable web applications. Currently studying at **Universitas Negeri Makassar**, constantly learning and exploring new technologies to build better solutions.
 
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://instagram.com/raihnx_" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MuhRaihan002_" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/@tsumux7368" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="TsumuX" height="30" width="40" />
-    </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-    </a>
-</p>
+</div>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhraihan001&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+### 🛠️ Technologies & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhraihan001&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+**Languages**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pawn-%23000000.svg?style=for-the-badge&logo=pawn&logoColor=white"/>
+</div>
+
+**Frameworks & Libraries**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</div>
+
+**Database & Tools**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://github.com/MuhRaihan001">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/raihnx_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://tsumux.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+### 💬 Discord
+
+<div align="center">
+  <a href="https://discord.c99.nl/widget/theme-1/932538280937922591.png">
+    <img src="https://discord.c99.nl/widget/theme-1/932538280937922591.png" alt="Discord Profile"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
+  **⭐ From [MuhRaihan001](https://github.com/MuhRaihan001)**
+  
+</div>
